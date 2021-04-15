@@ -13,7 +13,7 @@
     "enableSwaggerCodegen": false,
     "enableTranslation": true,
     "jhiPrefix": "jhi",
-    "languages": [],
+    "languages": ["en"],
     "messageBroker": false,
     "prodDatabaseType": "mysql",
     "searchEngine": false,
@@ -27,6 +27,16 @@
     "clientPackageManager": "npm",
     "dtoSuffix": "DTO",
     "entitySuffix": "",
-    "reactive": false
+    "reactive": false,
+    "entities": [],
+    "blueprints": [],
+    "otherModules": [],
+    "skipServer": false,
+    "skipCheckLengthOfIdentifier": false,
+    "skipFakeData": false,
+    "pages": [],
+    "creationTimestamp": 1618490065593,
+    "jwtSecretKey": "YjViNGVlN2Y3ZTZkZThhYTUwNmI4MTY4OTg0YjAyYjY5N2Y5ZmUxZWNhZGY3M2M2OWE4NTQ0OTgxNzk5NTczYWE1YWE1ZTMxMjNjNDZkZjRmODY2YmQyYTIxZjQzN2NlNjdiYWMyZTYwZDIyMDQ4ZjRiNzc1YWRhYmNlNzk3ZTE=",
+    "nativeLanguage": "en"
   }
 }
